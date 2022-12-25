@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run iris_deployment.py
+sh setup.sh && streamlit run iris_deployment.py
